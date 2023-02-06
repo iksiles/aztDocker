@@ -1,6 +1,6 @@
 <?php
 // Aldagaiak
-$hostDB = '127.0.0.1';
+$hostDB = 'db';
 $nombreDB = 'azt';
 $usuarioDB = 'IkerSiles';
 $contrasenyaDB = 'admin1234';
